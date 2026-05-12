@@ -1,10 +1,9 @@
 # OTTO_REPOSITORY
 # 🤖 Automação e Robótica Bípede: Aplicação do Otto DIY em Canteiro de Obras
-
-**Instituição:** Universidade do Estado da Bahia (UNEB)  
+Universidade do Estado da Bahia (UNEB)  
 **Disciplina:** Computação Aplicada à Engenharia  
 **Orientador:** Prof. Robson Marinho 
-**Discente:** Ariele Gomes, Luis Gustavo, Micaele Pereira e Raiane Borges
+**Discentes:** Ariele Gomes, Luis Gustavo, Micaele Pereira e Raiane Borges
 ---
 
 ## 📝 1. Introdução
