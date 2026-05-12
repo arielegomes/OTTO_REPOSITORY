@@ -3,9 +3,8 @@
 
 **Instituição:** Universidade do Estado da Bahia (UNEB)  
 **Disciplina:** Computação Aplicada à Engenharia  
-**Orientador:** Prof. Robson Marinho (Laboratório Inovamech)  
-**Discente:** Ariele [Seu Sobrenome]
-
+**Orientador:** Prof. Robson Marinho 
+**Discente:** Ariele 
 ---
 
 ## 📝 1. Introdução
