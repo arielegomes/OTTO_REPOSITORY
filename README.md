@@ -33,4 +33,4 @@ Conforme as diretrizes acadêmicas, a modelagem foi realizada em dois níveis de
 
 ---
 > **Status:** Requisito avaliativo para 13/05 às 15:00.  
-> **Laboratório:** Inovamech - UNEB.
+
