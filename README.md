@@ -4,7 +4,7 @@
 **Instituição:** Universidade do Estado da Bahia (UNEB)  
 **Disciplina:** Computação Aplicada à Engenharia  
 **Orientador:** Prof. Robson Marinho (Laboratório Inovamech)  
-**Discente:** Ariele Gomes, Luis Gustavo, Micaele Pereira e Raiane Borges.
+**Discente:** Ariele [Seu Sobrenome]
 
 ---
 
@@ -14,17 +14,22 @@ Este projeto apresenta o desenvolvimento, montagem e modelagem do robô bípede 
 ## 📊 2. Modelagem com Redes de Petri
 Conforme as diretrizes acadêmicas, a modelagem foi realizada em dois níveis de complexidade:
 * **Sistema Atual:** Representação do fluxo de eventos para locomoção, desvio de obstáculos e controle via interface Bluetooth.
-* **Sistema de Evolução (Canteiro de Obras):** .
-
+* **Sistema de Evolução (Canteiro de Obras):** Modelo teórico para integração de sensores de segurança (NR-33) e monitoramento de insumos.
 
 ## ⚙️ 3. Implementação e Hardware
-O hardware foi estruturado para garantir a execução fiel dos modelos propostos:
 * **Microcontrolador:** Arduino Nano (ATmega328P).
 * **Atuadores:** 4 servomotores SG90 (articulados para marcha bípede).
-* **Sensoriamento:** Sensor ultrassônico HC-SR04 para mapeamento de proximidade.
+* **Sensoriamento:** Sensor ultrassônico HC-SR04 (Mapeamento de proximidade).
 * **Comunicação:** Módulo Bluetooth HC-05 (Telemetria Serial).
-* **Software:** Firmware desenvolvido em C++ via **Arduino IDE**, baseado em adaptações da biblioteca oficial do Otto.
+* **Software:** Firmware em C++ via **Arduino IDE**, com modificações documentadas sobre a biblioteca oficial.
 
+## 📂 4. Estrutura do Repositório
+* `📂 Codigo (.ino) com a **explicitação das modificações** realizadas.
+* `📂 documentacao/`: Relatório técnico em PDF (LaTeX) e link para o Overleaf
+* `📂  modelagem/`: Arquivos das Redes de Petri (Nível 1 e 2).
+* `📂 processo-montagem/`: Arquivos (Fotos e Videos) do processo de montagem do robô
+
+## 🚀 5. Proposta de Evolução para o Canteiro
 
 
 ---
