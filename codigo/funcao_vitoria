@@ -1,0 +1,32 @@
+case OttoVictory:
+        
+        putMouth(smallSurprise);
+        //final pos   = {90,90,150,30}
+        for (int i = 0; i < 60; ++i){
+          int pos[]={90,90,90+i,90-i};  
+          _moveServos(10,pos);
+          _tone(1600+i*20,15,1);
+        }
+
+        putMouth(bigSurprise);
+        //final pos   = {90,90,90,90}
+        for (int i = 0; i < 60; ++i){
+          int pos[]={90,90,150-i,30+i};  
+          _moveServos(10,pos);
+          _tone(2800+i*20,15,1);
+        }
+
+        putMouth(happyOpen);
+        //SUPER HAPPY
+        //-----
+        tiptoeSwing(1,500,20);
+        sing(S_superHappy);
+        putMouth(happyClosed);
+        tiptoeSwing(1,500,20); 
+        //-----
+
+        home();
+        clearMouth();
+        putMouth(happyOpen);
+
+    break;
