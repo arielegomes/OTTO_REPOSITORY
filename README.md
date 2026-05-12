@@ -2,7 +2,7 @@
 # 🤖 Automação e Robótica Bípede: Aplicação do Otto DIY em Canteiro de Obras
 **Universidade do Estado da Bahia (UNEB)**  
 **Disciplina:** **Computação Aplicada à Engenharia**
-**Orientador:** **Prof. Robson Marinho**
+**Orientador:** **Prof. Robson Marinho**                                                                 
 **Discentes:** Ariele Gomes, Luis Gustavo, Micaele Pereira e Raiane Borges
 ---
 
