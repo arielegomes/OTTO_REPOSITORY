@@ -4,7 +4,7 @@
 **Instituição:** Universidade do Estado da Bahia (UNEB)  
 **Disciplina:** Computação Aplicada à Engenharia  
 **Orientador:** Prof. Robson Marinho 
-**Discente:** Ariele 
+**Discente:** Ariele Gomes, Luis Gustavo, Micaele Pereira e Raiane Borges
 ---
 
 ## 📝 1. Introdução
