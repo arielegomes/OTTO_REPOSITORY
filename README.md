@@ -25,7 +25,7 @@ Conforme as diretrizes acadêmicas, a modelagem foi realizada em dois níveis de
 
 ## 📂 4. Estrutura do Repositório
 * `📂 Codigo (.ino) com a **explicitação das modificações** realizadas.
-* `📂 documentacao/`: Relatório técnico em PDF (LaTeX) e link para o Overleaf
+* `📂 documentacao/`: Relatório técnico e apresentação em PDF (LaTeX)
 * `📂 links/ : Do overleaf e Drive
 * `📂  modelagem/`: Arquivos das Redes de Petri (Nível 1 e 2).
 * `📂 processo-montagem/`: Arquivos (Fotos e Videos) do processo de montagem do robô
