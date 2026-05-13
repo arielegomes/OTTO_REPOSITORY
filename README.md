@@ -7,7 +7,9 @@
 ---
 
 ## 📝 1. Introdução
-Este projeto apresenta o desenvolvimento, montagem e modelagem do robô bípede **Otto DIY**. O trabalho busca aplicar conhecimentos de programação, mecânica e sistemas de controle para solucionar problemas reais no cenário de **Canteiro de Obras**, explorando o potencial da robótica móvel na assistência a vistorias e automação de processos produtivos.
+Este projeto apresenta o desenvolvimento, montagem e modelagem do robô bípede Otto DIY. O trabalho busca aplicar conhecimentos de programação, mecânica e sistemas de controle para solucionar problemas reais no cenário de Canteiro de Obras, explorando o potencial da robótica móvel na assistência a vistorias e automação de processos produtivos.
+
+O projeto foi viabilizado através do suporte técnico e da infraestrutura do Laboratório InovaMech, que forneceu o ambiente necessário para a prototipagem, testes de sensores e montagem dos componentes eletrônicos.
 
 ## 📊 2. Modelagem com Redes de Petri
 Conforme as diretrizes acadêmicas, a modelagem foi realizada em dois níveis de complexidade:
@@ -27,9 +29,14 @@ Conforme as diretrizes acadêmicas, a modelagem foi realizada em dois níveis de
 * `📂  modelagem/`: Arquivos das Redes de Petri (Nível 1 e 2).
 * `📂 processo-montagem/`: Arquivos (Fotos e Videos) do processo de montagem do robô
 
+
 ## 🚀 5. Proposta de Evolução para o Canteiro
 
+Diferente do modelo bípede atual, a evolução foca em transformar o Otto em um *assistente de transporte e inspeção* com as seguintes características:
 
+* *Sistema Híbrido:* Transição para rodas motorizadas (Motores DC + Driver L298N) para maior velocidade e estabilidade em superfícies de obra.
+* *Função de Monitoramento:* Detecção autônoma de distância de paredes para conferência de medidas de projeto.
+* *Transporte:* Implementação de uma caixa de carga para deslocamento de pequenas ferramentas e componentes leves.
 ---
 > **Status:** Requisito avaliativo para 13/05 às 15:00.  
 
